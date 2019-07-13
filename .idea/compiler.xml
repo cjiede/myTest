@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="commons" />
+        <module name="commons-mapper" />
+        <module name="database" />
+        <module name="commons-domain" />
+        <module name="domain" />
+        <module name="commons-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="commons" target="1.8" />
+      <module name="commons-domain" target="1.8" />
+      <module name="commons-mapper" target="1.8" />
+      <module name="commons-service" target="1.8" />
+      <module name="database" target="1.8" />
+      <module name="dependencies" target="1.8" />
+      <module name="domain" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="commons" options="-parameters" />
+      <module name="commons-domain" options="-parameters" />
+      <module name="commons-mapper" options="-parameters" />
+      <module name="commons-service" options="-parameters" />
+      <module name="database" options="-parameters" />
+      <module name="domain" options="-parameters" />
+    </option>
+  </component>
+</project>
