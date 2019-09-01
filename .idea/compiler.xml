@@ -22,6 +22,9 @@
       <module name="database" target="1.8" />
       <module name="dependencies" target="1.8" />
       <module name="domain" target="1.8" />
+      <module name="myshop-service-user-api" target="1.8" />
+      <module name="service-user-consumer" target="1.8" />
+      <module name="service-user-provider" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -32,6 +35,9 @@
       <module name="commons-service" options="-parameters" />
       <module name="database" options="-parameters" />
       <module name="domain" options="-parameters" />
+      <module name="myshop-service-user-api" options="-parameters" />
+      <module name="service-user-consumer" options="-parameters" />
+      <module name="service-user-provider" options="-parameters" />
     </option>
   </component>
 </project>

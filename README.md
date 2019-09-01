@@ -1,6 +1,8 @@
 # myTest
 新建自己的项目
 
+##  database
+映射数据库字段 在maven 执行 mybatis - generator 命令
 ## dependencies
 统一的依赖管理
 
