@@ -9,6 +9,7 @@
         <module name="commons" />
         <module name="commons-mapper" />
         <module name="database" />
+        <module name="myshopservice" />
         <module name="commons-domain" />
         <module name="domain" />
         <module name="commons-service" />
@@ -23,6 +24,8 @@
       <module name="dependencies" target="1.8" />
       <module name="domain" target="1.8" />
       <module name="myshop-service-user-api" target="1.8" />
+      <module name="myshopservice" target="1.8" />
+      <module name="myshopserviceprovideritem" target="1.5" />
       <module name="service-user-consumer" target="1.8" />
       <module name="service-user-provider" target="1.8" />
     </bytecodeTargetLevel>
@@ -36,6 +39,7 @@
       <module name="database" options="-parameters" />
       <module name="domain" options="-parameters" />
       <module name="myshop-service-user-api" options="-parameters" />
+      <module name="myshopservice" options="-parameters" />
       <module name="service-user-consumer" options="-parameters" />
       <module name="service-user-provider" options="-parameters" />
     </option>

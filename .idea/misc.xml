@@ -11,6 +11,9 @@
         <option value="$PROJECT_DIR$/commonsservice/pom.xml" />
         <option value="$PROJECT_DIR$/database/pom.xml" />
         <option value="$PROJECT_DIR$/commons-mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/myshopserviceprovideritem/pom.xml" />
+        <option value="$PROJECT_DIR$/myshopservice/pom.xml" />
+        <option value="$PROJECT_DIR$/commons-service/pom.xml" />
       </list>
     </option>
   </component>
