@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/apiui" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/commons" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/commons-mapper" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/commons-service" charset="UTF-8" />
@@ -8,5 +9,7 @@
     <file url="file://$PROJECT_DIR$/dependencies" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/domain" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/myshopservice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/register" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/registerd" charset="UTF-8" />
   </component>
 </project>

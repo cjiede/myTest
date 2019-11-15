@@ -6,16 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="registerd" />
         <module name="commons" />
         <module name="commons-mapper" />
-        <module name="database" />
-        <module name="myshopservice" />
-        <module name="commons-domain" />
         <module name="domain" />
+        <module name="APIUI" />
+        <module name="database" />
+        <module name="myshop-service-provider-item" />
+        <module name="commons-domain" />
+        <module name="myshopservice" />
         <module name="commons-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="APIUI" target="1.8" />
       <module name="commons" target="1.8" />
       <module name="commons-domain" target="1.8" />
       <module name="commons-mapper" target="1.8" />
@@ -23,11 +27,15 @@
       <module name="database" target="1.8" />
       <module name="dependencies" target="1.8" />
       <module name="domain" target="1.8" />
+      <module name="myshop-register" target="1.8" />
+      <module name="myshop-service-provider-item" target="1.8" />
       <module name="myshop-service-user-api" target="1.8" />
       <module name="myshopservice" target="1.8" />
       <module name="myshopserviceprovideritem" target="1.5" />
+      <module name="registerd" target="1.8" />
       <module name="service-user-consumer" target="1.8" />
       <module name="service-user-provider" target="1.8" />
+      <module name="ui" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -38,10 +46,14 @@
       <module name="commons-service" options="-parameters" />
       <module name="database" options="-parameters" />
       <module name="domain" options="-parameters" />
+      <module name="myshop-register" options="-parameters" />
+      <module name="myshop-service-provider-item" options="-parameters" />
       <module name="myshop-service-user-api" options="-parameters" />
       <module name="myshopservice" options="-parameters" />
+      <module name="registerd" options="-parameters" />
       <module name="service-user-consumer" options="-parameters" />
       <module name="service-user-provider" options="-parameters" />
+      <module name="ui" options="-parameters" />
     </option>
   </component>
 </project>

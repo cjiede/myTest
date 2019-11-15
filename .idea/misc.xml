@@ -4,7 +4,6 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/dependencies/pom.xml" />
-        <option value="$PROJECT_DIR$/commons/pom.xml" />
         <option value="$PROJECT_DIR$/commonsmapper/pom.xml" />
         <option value="$PROJECT_DIR$/domain/pom.xml" />
         <option value="$PROJECT_DIR$/mian/pom.xml" />
@@ -14,6 +13,9 @@
         <option value="$PROJECT_DIR$/myshopserviceprovideritem/pom.xml" />
         <option value="$PROJECT_DIR$/myshopservice/pom.xml" />
         <option value="$PROJECT_DIR$/commons-service/pom.xml" />
+        <option value="$PROJECT_DIR$/APIUI/pom.xml" />
+        <option value="$PROJECT_DIR$/commons/pom.xml" />
+        <option value="$PROJECT_DIR$/registerd/pom.xml" />
       </list>
     </option>
   </component>

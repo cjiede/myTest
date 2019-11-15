@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/apiui/APIUI.iml" filepath="$PROJECT_DIR$/apiui/APIUI.iml" />
       <module fileurl="file://$PROJECT_DIR$/commons/commons.iml" filepath="$PROJECT_DIR$/commons/commons.iml" />
       <module fileurl="file://$PROJECT_DIR$/domain/commons-domain.iml" filepath="$PROJECT_DIR$/domain/commons-domain.iml" />
       <module fileurl="file://$PROJECT_DIR$/commons-mapper/commons-mapper.iml" filepath="$PROJECT_DIR$/commons-mapper/commons-mapper.iml" />
@@ -10,7 +11,10 @@
       <module fileurl="file://$PROJECT_DIR$/dependencies/dependencies.iml" filepath="$PROJECT_DIR$/dependencies/dependencies.iml" />
       <module fileurl="file://$PROJECT_DIR$/domain/domain.iml" filepath="$PROJECT_DIR$/domain/domain.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/myTest.iml" filepath="$PROJECT_DIR$/.idea/myTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apiui/myshop-service-provider-item.iml" filepath="$PROJECT_DIR$/apiui/myshop-service-provider-item.iml" />
       <module fileurl="file://$PROJECT_DIR$/myshopservice/myshopservice.iml" filepath="$PROJECT_DIR$/myshopservice/myshopservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/register/register.iml" filepath="$PROJECT_DIR$/register/register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/registerd/registerd.iml" filepath="$PROJECT_DIR$/registerd/registerd.iml" />
     </modules>
   </component>
 </project>
